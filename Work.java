@@ -1,7 +1,7 @@
 public class Work {
     public static void main(String... args) {
 	System.out.println("Changed it!");
-	System.out.println("Weijie");
+	System.out.println("Weijie Lin");
 	infiniteLoop();
     }
 
