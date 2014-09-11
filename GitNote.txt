@@ -7,3 +7,15 @@ git commit -m "Message for the new commit"
 git status
 git log
 git diff
+
+
+git branch : list all the branches
+git checkout -b feature : create a new branch
+touch test.py
+git add test.py
+git commit -m "test2"
+git checkout master
+git checkout feature
+git checkout master
+git merge feature
+http://pcottle.github.io/learnGitBranching/
