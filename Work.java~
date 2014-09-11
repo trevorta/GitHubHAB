@@ -1,5 +1,11 @@
 public class Work {
     public static void main(String... args) {
-	System.out.println("Hello");
+	System.out.println("Changed it!");
+    }
+
+    public static void infiniteLoop() {
+	while (true) {
+	    System.out.println("Trolled!!!!!");
+	}
     }
 }
